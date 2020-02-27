@@ -26,7 +26,7 @@ if 'DEV' in os.environ:
 else:
     DEBUG = False
 
-ALLOWED_HOSTS = [os.environ.get('HOSTNAME')]
+ALLOWED_HOSTS = [os.environ.get('HOSTNAME'), 'marks-ecommerces.herokuapp.com']
 
 
 # Application definition
