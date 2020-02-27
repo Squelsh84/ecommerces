@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Squelsh84/ecommerces.svg?branch=master)](https://travis-ci.com/Squelsh84/ecommerces)
